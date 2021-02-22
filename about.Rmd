@@ -12,3 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## About us
 
 We're making a website
+
+
+## About our course
+
+We're teaching NTRES 6100
+
+
+## About our department
+
+We're in the DNRE
