@@ -1,19 +1,35 @@
 project:
   type: website
+<<<<<<< HEAD
 
 website:
   title: "collab-website"
+=======
+  output-dir: docs
+
+website:
+  title: "Cute puppy website"
+>>>>>>> d9f20baa06b1497d5236aff5c738ca2e7cbedc61
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+<<<<<<< HEAD
+=======
+      - href: resources.qmd
+        text: Res
+>>>>>>> d9f20baa06b1497d5236aff5c738ca2e7cbedc61
 
 format:
   html:
     theme:
+<<<<<<< HEAD
       - cosmo
       - brand
+=======
+      - cerulean
+>>>>>>> d9f20baa06b1497d5236aff5c738ca2e7cbedc61
     css: styles.css
     toc: true
 
