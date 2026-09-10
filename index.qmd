@@ -1,7 +1,7 @@
 ---
-title: "collab-website"
+title: "Our cool website"
 ---
 
-This is a Quarto website.
+We are working together on this website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](https://www.rover.com/blog/wp-content/uploads/puppy-facts.jpg)
